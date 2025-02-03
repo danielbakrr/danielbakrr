@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Daniel, a 2nd-year Polytechnic Information Technology student specializing in Cloud Computing. 
+Hello! I'm Daniel, a 2nd-year Polytechnic Information Technology student specializing in Cloud Computing and an aspiring data-analyst!
 
 
 ## 🌐 Socials:
